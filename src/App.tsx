@@ -3,11 +3,12 @@ import Header from './components/Header';
 import Tabs from './components/Tabs';
 import VideoSection from './components/VideoSection';
 import RecorderSection from './components/RecorderSection';
+import SpeciesSection from './components/SpeciesSection';
 import AboutSection from './components/AboutSection';
 import { motion, AnimatePresence } from 'framer-motion';
 
 function App() {
-  const [activeTab, setActiveTab] = useState<'learn' | 'train' | 'about'>('learn');
+  const [activeTab, setActiveTab] = useState<'learn' | 'train' | 'species' | 'about'>('learn');
 
   const renderContent = () => {
     switch (activeTab) {
@@ -15,6 +16,8 @@ function App() {
         return <VideoSection />;
       case 'train':
         return <RecorderSection />;
+      case 'species':
+        return <SpeciesSection />;
       case 'about':
         return <AboutSection />;
       default:

@@ -1,9 +1,9 @@
 import React from 'react';
-import { Play, Mic, Info } from 'lucide-react';
+import { Play, Mic, Info, Search } from 'lucide-react';
 
 interface TabsProps {
-  activeTab: 'learn' | 'train' | 'about';
-  setActiveTab: (tab: 'learn' | 'train' | 'about') => void;
+  activeTab: 'learn' | 'train' | 'species' | 'about';
+  setActiveTab: (tab: 'learn' | 'train' | 'species' | 'about') => void;
 }
 
 const Tabs: React.FC<TabsProps> = ({ activeTab, setActiveTab }) => {
@@ -26,6 +26,15 @@ const Tabs: React.FC<TabsProps> = ({ activeTab, setActiveTab }) => {
       >
         <Mic size={24} />
         <span className="text-xs font-medium">Train</span>
+      </button>
+      <button
+        onClick={() => setActiveTab('species')}
+        className={`flex flex-col items-center gap-1 p-2 rounded-lg transition-colors ${
+          activeTab === 'species' ? 'text-duck-green bg-duck-tan/30' : 'text-gray-500'
+        }`}
+      >
+        <Search size={24} />
+        <span className="text-xs font-medium">Identify</span>
       </button>
       <button
         onClick={() => setActiveTab('about')}
