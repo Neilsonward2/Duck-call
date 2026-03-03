@@ -1,4 +1,5 @@
 import React from 'react';
+import YouTube from 'react-youtube';
 
 interface Video {
   id: string;
@@ -45,14 +46,20 @@ const VideoSection: React.FC = () => {
       {videos.map((video) => (
         <div key={video.id} className="bg-white rounded-xl overflow-hidden shadow-sm border border-duck-tan">
           <div className="aspect-video w-full">
-            <iframe
+            <YouTube
+              videoId={video.videoId}
               className="w-full h-full"
-              src={`https://www.youtube.com/embed/${video.videoId}`}
+              iframeClassName="w-full h-full"
+              opts={{
+                width: '100%',
+                height: '100%',
+                playerVars: {
+                  playsinline: 1,
+                  origin: window.location.origin,
+                },
+              }}
               title={video.title}
-              frameBorder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowFullScreen
-            ></iframe>
+            />
           </div>
           <div className="p-4">
             <h3 className="font-bold text-lg">{video.title}</h3>
