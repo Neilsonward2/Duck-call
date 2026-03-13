@@ -11,8 +11,24 @@
     "behavior": "Social ducks, often found in large flocks. They tip forward to feed on aquatic plants.",
     "seasonal_patterns": "Migrate in large flocks; many remain in the north as long as open water is available.",
     "markers": "Blue wing patch (speculum) with white borders on both sexes.",
-    "imageUrl": "https://images.unsplash.com/photo-1470114756574-94833c070c7b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/mallard.mp3"
+    "audioUrl": "/assets/sounds/mallard.mp3",
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Anas_Platyrhynchos_Male.jpg",
+        "credit": "Peripitus, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallard_Female_Graves.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mallard_in_flight_1.jpg",
+        "credit": "Andreas Trepte, CC BY-SA 2.5",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "american-black-duck",
@@ -26,8 +42,19 @@
     "behavior": "Wary and shy; often associates with Mallards but stays in more secluded areas.",
     "seasonal_patterns": "Winter primarily along the Atlantic coast.",
     "markers": "Dark body and pale head; purple-blue speculum lacks white borders.",
-    "imageUrl": "https://images.unsplash.com/photo-1605092676920-8ac5ae1007c6?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/american-black-duck.mp3"
+    "audioUrl": "/assets/sounds/american-black-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Black_Duck_male_RWD5.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Black_Duck_in_flight.jpg",
+        "credit": "USFWS / Peter McGowan",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "wood-duck",
@@ -41,8 +68,24 @@
     "behavior": "Often perches in trees; shy and quick to take flight when disturbed.",
     "seasonal_patterns": "Early migrants in the fall; move to southern swamps for winter.",
     "markers": "Distinctive boxy crest on the head of both sexes.",
-    "imageUrl": "https://images.unsplash.com/photo-1555616635-640973a3b72c?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/wood-duck.mp3"
+    "audioUrl": "/assets/sounds/wood-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wood_Duck_Aix_sponsa_Male_1600px.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aix_sponsa_female_Adelaide.jpg",
+        "credit": "Peripitus, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Wood_Duck_(67796723).jpeg",
+        "credit": "Manjith Kainickara, CC BY 3.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "northern-pintail",
@@ -56,8 +99,24 @@
     "behavior": "Very wary; feeds by dabbling and walking in stubble fields.",
     "seasonal_patterns": "One of the first ducks to migrate south in autumn.",
     "markers": "Long, pointed tail and slender profile.",
-    "imageUrl": "https://images.unsplash.com/photo-1613961605047-3868516d762e?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/northern-pintail.mp3"
+    "audioUrl": "/assets/sounds/northern-pintail.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern_Pintail_Male.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anas_acuta_female_6.jpg",
+        "credit": "Andreas Trepte, CC BY-SA 2.5",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Male_northern_pintail_in_flight-8276.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "northern-shoveler",
@@ -71,8 +130,24 @@
     "behavior": "Sifts through mud and water with its specialized bill; often swims in circles to stir up food.",
     "seasonal_patterns": "Common in the West and South during winter.",
     "markers": "The unmistakable long, broad, spoon-shaped bill.",
-    "imageUrl": "https://images.unsplash.com/photo-1612165037190-252994030620?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/northern-shoveler.mp3"
+    "audioUrl": "/assets/sounds/northern-shoveler.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern_Shoveler_Male.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anas_clypeata_female_Adelaide.jpg",
+        "credit": "Peripitus, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Northern_shoveler_in_flight-3243.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "gadwall",
@@ -86,8 +161,24 @@
     "behavior": "Often steals food from American Coots and other diving ducks.",
     "seasonal_patterns": "Widespread across North America; winters in the southern US and Mexico.",
     "markers": "White speculum (wing patch) visible in flight and sometimes at rest.",
-    "imageUrl": "https://images.unsplash.com/photo-1551465241-119102283e3c?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/gadwall.mp3"
+    "audioUrl": "/assets/sounds/gadwall.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gadwall_Male.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Anas_strepera_female_Adelaide.jpg",
+        "credit": "Peripitus, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gadwall_in_flight-3909.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "american-wigeon",
@@ -101,8 +192,24 @@
     "behavior": "Highly vocal; males make a three-note whistle. Known for stealing food from divers.",
     "seasonal_patterns": "Migrates in small to medium-sized flocks.",
     "markers": "White patch on the forehead of the male; white wing coverts in flight.",
-    "imageUrl": "https://images.unsplash.com/photo-1588661706684-29759495116f?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/american-wigeon.mp3"
+    "audioUrl": "/assets/sounds/american-wigeon.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Wigeon_Male.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_Wigeon_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_wigeon_in_flight-2708.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "green-winged-teal",
@@ -116,8 +223,24 @@
     "behavior": "Feeds by mud-probing or dabbling in very shallow water.",
     "seasonal_patterns": "One of the last teals to migrate south; hardy for their size.",
     "markers": "Small size and bright green wing patch.",
-    "imageUrl": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/green-winged-teal.mp3"
+    "audioUrl": "/assets/sounds/green-winged-teal.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green-winged_Teal_Male.jpg",
+        "credit": "Alan D. Wilson, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green-winged_Teal_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Green-winged_teal_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "blue-winged-teal",
@@ -131,8 +254,24 @@
     "behavior": "Highly migratory; often travels as far as South America for winter.",
     "seasonal_patterns": "First ducks to head south in the fall, often in August.",
     "markers": "Large blue patch on the front of the wing.",
-    "imageUrl": "https://images.unsplash.com/photo-1505235312351-93517228a053?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/blue-winged-teal.mp3"
+    "audioUrl": "/assets/sounds/blue-winged-teal.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-winged_Teal_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-winged_Teal_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Blue-winged_teal_in_flight-2081.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "cinnamon-teal",
@@ -146,8 +285,24 @@
     "behavior": "Often seen in pairs or small groups; feeds on aquatic plants and insects.",
     "seasonal_patterns": "Mostly stays in the western US and Mexico.",
     "markers": "Male's deep cinnamon color and blue wing patches.",
-    "imageUrl": "https://images.unsplash.com/photo-1501625983754-051f2244243f?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/cinnamon-teal.mp3"
+    "audioUrl": "/assets/sounds/cinnamon-teal.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_Teal_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_Teal_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cinnamon_teal_in_flight-4819.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "mottled-duck",
@@ -161,8 +316,19 @@
     "behavior": "Usually found in pairs or small family groups; does not form large flocks.",
     "seasonal_patterns": "Non-migratory; remains in its coastal habitat year-round.",
     "markers": "Dark body, buffy throat, and blue-green speculum with no white borders.",
-    "imageUrl": "https://images.unsplash.com/photo-1470114756574-94833c070c7b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/mottled-duck.mp3"
+    "audioUrl": "/assets/sounds/mottled-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mottled_Duck_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Profile"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mottled_duck_in_flight-2651.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "canvasback",
@@ -176,8 +342,24 @@
     "behavior": "Dives for aquatic plants, especially wild celery.",
     "seasonal_patterns": "Winters in large rafts on coastal bays and the Great Lakes.",
     "markers": "Unique wedge-shaped head and sloping bill.",
-    "imageUrl": "https://images.unsplash.com/photo-1444464666168-49d633b867ad?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/canvasback.mp3"
+    "audioUrl": "/assets/sounds/canvasback.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canvasback_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canvasback_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Canvasback_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "redhead",
@@ -191,8 +373,24 @@
     "behavior": "Known for 'brood parasitism' - laying eggs in the nests of other ducks.",
     "seasonal_patterns": "Highly social in winter; thousands may gather in a single raft.",
     "markers": "Rounded red head and blue bill with a black tip.",
-    "imageUrl": "https://images.unsplash.com/photo-1552084117-56a987666449?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/redhead.mp3"
+    "audioUrl": "/assets/sounds/redhead.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Redhead_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Redhead_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Redhead_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "ring-necked-duck",
@@ -206,8 +404,24 @@
     "behavior": "Dives for seeds and aquatic invertebrates; often found in small groups.",
     "seasonal_patterns": "Widespread migrant across North America.",
     "markers": "White ring near the tip of the bill (the 'ringed' neck is hard to see).",
-    "imageUrl": "https://images.unsplash.com/photo-1534125815911-3783a7c6f05b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/ring-necked-duck.mp3"
+    "audioUrl": "/assets/sounds/ring-necked-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ring-necked_Duck_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ring-necked_Duck_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ring-necked_duck_in_flight-2086.jpg",
+        "credit": "Frank Schulenburg, CC BY-SA 4.0",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "greater-scaup",
@@ -221,8 +435,24 @@
     "behavior": "Forms massive flocks (rafts) on open water during winter.",
     "seasonal_patterns": "Long-distance migrant from Arctic breeding grounds.",
     "markers": "Rounded head with green sheen; white wing stripe extends nearly to the tip.",
-    "imageUrl": "https://images.unsplash.com/photo-1526017126207-69c70b6d925e?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/greater-scaup.mp3"
+    "audioUrl": "/assets/sounds/greater-scaup.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_Scaup_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_Scaup_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Greater_scaup_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "lesser-scaup",
@@ -236,8 +466,24 @@
     "behavior": "Active diver; feeds on aquatic insects and mollusks.",
     "seasonal_patterns": "The most abundant diving duck in North America.",
     "markers": "Peaked head shape and small 'nail' on the tip of the bill.",
-    "imageUrl": "https://images.unsplash.com/photo-1526017126207-69c70b6d925e?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/lesser-scaup.mp3"
+    "audioUrl": "/assets/sounds/lesser-scaup.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser_Scaup_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser_Scaup_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lesser_scaup_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "bufflehead",
@@ -251,8 +497,24 @@
     "behavior": "Almost constantly diving; usually seen in small groups.",
     "seasonal_patterns": "Widespread in winter across most of the US.",
     "markers": "Small size and large white head patch on the male.",
-    "imageUrl": "https://images.unsplash.com/photo-1555616635-640973a3b72c?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/bufflehead.mp3"
+    "audioUrl": "/assets/sounds/bufflehead.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bufflehead_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bufflehead_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bufflehead_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "common-goldeneye",
@@ -266,8 +528,24 @@
     "behavior": "Aggressive divers; often found in small, tight-knit groups.",
     "seasonal_patterns": "Late migrant; often stays north as long as there is open water.",
     "markers": "Round white spot on the male's face and bright golden eye.",
-    "imageUrl": "https://images.unsplash.com/photo-1470114756574-94833c070c7b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/common-goldeneye.mp3"
+    "audioUrl": "/assets/sounds/common-goldeneye.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Goldeneye_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Goldeneye_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_goldeneye_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "barrows-goldeneye",
@@ -281,8 +559,24 @@
     "behavior": "Territorial during the breeding season.",
     "seasonal_patterns": "Mostly found in the Pacific Northwest and Rocky Mountains.",
     "markers": "Crescent-shaped white face patch on the male.",
-    "imageUrl": "https://images.unsplash.com/photo-1470114756574-94833c070c7b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/barrows-goldeneye.mp3"
+    "audioUrl": "/assets/sounds/barrows-goldeneye.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barrow%27s_Goldeneye_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barrow%27s_Goldeneye_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Barrow%27s_goldeneye_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "ruddy-duck",
@@ -296,8 +590,24 @@
     "behavior": "Often swims with its stiff tail cocked upright; very aggressive during courtship.",
     "seasonal_patterns": "Migrates throughout North America.",
     "markers": "Stiff, upright tail and (in males) bright blue bill.",
-    "imageUrl": "https://images.unsplash.com/photo-1552084117-56a987666449?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/ruddy-duck.mp3"
+    "audioUrl": "/assets/sounds/ruddy-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruddy_Duck_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruddy_Duck_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruddy_duck_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "long-tailed-duck",
@@ -311,8 +621,24 @@
     "behavior": "One of the deepest diving ducks, reaching depths of over 200 feet.",
     "seasonal_patterns": "Breeds in the Arctic tundra; winters along both coasts.",
     "markers": "Extremely long tail feathers on the male.",
-    "imageUrl": "https://images.unsplash.com/photo-1534125815911-3783a7c6f05b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/long-tailed-duck.mp3"
+    "audioUrl": "/assets/sounds/long-tailed-duck.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Long-tailed_Duck_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Long-tailed_Duck_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Long-tailed_duck_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "surf-scoter",
@@ -326,8 +652,24 @@
     "behavior": "Feeds primarily on mollusks, especially mussels, in the surf zone.",
     "seasonal_patterns": "Found along both the Atlantic and Pacific coasts in winter.",
     "markers": "Male's white head patches and large, multi-colored bill.",
-    "imageUrl": "https://images.unsplash.com/photo-1452570053594-1b985d6ea890?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/surf-scoter.mp3"
+    "audioUrl": "/assets/sounds/surf-scoter.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Surf_Scoter_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Surf_Scoter_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Surf_scoter_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "black-scoter",
@@ -341,8 +683,24 @@
     "behavior": "Highly vocal; the male's whistling call can be heard from a distance.",
     "seasonal_patterns": "Winters primarily along the coasts.",
     "markers": "Male's all-black body and bright orange bill knob.",
-    "imageUrl": "https://images.unsplash.com/photo-1505235312351-93517228a053?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/black-scoter.mp3"
+    "audioUrl": "/assets/sounds/black-scoter.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Scoter_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_Scoter_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Black_scoter_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "white-winged-scoter",
@@ -356,8 +714,24 @@
     "behavior": "Dives for mollusks and crustaceans; often stays further offshore than other scoters.",
     "seasonal_patterns": "Migrates across the continent from northern breeding grounds.",
     "markers": "White wing patch (speculum) and male's white eye comma.",
-    "imageUrl": "https://images.unsplash.com/photo-1555616635-640973a3b72c?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/white-winged-scoter.mp3"
+    "audioUrl": "/assets/sounds/white-winged-scoter.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/White-winged_Scoter_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/White-winged_Scoter_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/White-winged_scoter_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   },
   {
     "id": "common-eider",
@@ -371,7 +745,23 @@
     "behavior": "Highly social; feeds on mussels and other shellfish by diving.",
     "seasonal_patterns": "Moves south to the New England and mid-Atlantic coasts in winter.",
     "markers": "Large size and unique sloping profile from bill to forehead.",
-    "imageUrl": "https://images.unsplash.com/photo-1470114756574-94833c070c7b?auto=format&fit=crop&q=80&w=800",
-    "audioUrl": "/assets/sounds/common-eider.mp3"
+    "audioUrl": "/assets/sounds/common-eider.mp3",
+    "images": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Eider_Male_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Male"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_Eider_Female_RWD.jpg",
+        "credit": "DickDaniels, CC BY-SA 3.0",
+        "caption": "Female"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Common_eider_in_flight.jpg",
+        "credit": "USFWS",
+        "caption": "In Flight"
+      }
+    ]
   }
 ]
