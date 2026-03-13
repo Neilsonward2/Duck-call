@@ -10,6 +10,7 @@ interface SpeciesImage {
   caption: string;
 }
 
+
 interface Species {
   id: string;
   name: string;
